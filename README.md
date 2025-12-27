@@ -1,12 +1,4 @@
-# Wordex - Team 35 : Formula 4
-## SFWRENG 2XC3 
-## Date: December 3, 2025
-
-## Authors:
-- Lohitashwa Madhan 
-- Mohit Gedela 
-- Nithya Majeti 
-- Zainab Mirza
+# Wordex 
 
 ## Project Overview 
 
@@ -17,6 +9,18 @@ Wordex is a terminal-based wordle style game written in the C-language. Wordex e
 - Global Leaderboard
 - Complete Game History
 - Game Logic
+
+# My Contributions
+- Developed a **full game history logging system**:
+  - Stores every completed match with timestamps.
+  - Displays results in a clean table format with colored WIN/LOSS indicators (green for WIN, red for LOSS).
+  - Orders entries from most recent to oldest for easy access.
+
+- Implemented a **global leaderboard system**:
+  - Reads all recorded games and ranks users based on highest number of wins.
+  - Displays games played, losses, win rate, and average guesses.
+
+- Integrated timestamp functionality for all game entries to ensure accurate tracking.
 
 ## Compile and Run Wordex Program 
 
