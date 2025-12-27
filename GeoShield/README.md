@@ -19,6 +19,12 @@ A real-time web application that coordinates emergency disaster response by conn
 - Backend: Node.js + Express
 - State Management: React Context API
 
+## My Contributions
+
+- Contributed to frontend code by making minor UI and component-level updates in the React codebase.
+- Assisted with project setup, configuration, and local testing of the application.
+- Worked with the existing codebase to understand and verify features such as map-based requests and role-based workflows.
+
 ## Setup Instructions
 
 ### Prerequisites
