@@ -10,7 +10,7 @@ Wordex is a terminal-based wordle style game written in the C-language. Wordex e
 - Complete Game History
 - Game Logic
 
-# My Contributions
+## My Contributions
 - Developed a **full game history logging system**:
   - Stores every completed match with timestamps.
   - Displays results in a clean table format with colored WIN/LOSS indicators (green for WIN, red for LOSS).
